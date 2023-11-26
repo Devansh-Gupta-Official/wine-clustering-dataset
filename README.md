@@ -19,7 +19,7 @@ The analysis is conducted on the 'wine-clustering.csv' dataset.
 5. Customize the model by adjusting parameters, exploring different evaluation metrics, or using other datasets.
 
 ## **Files**
-- kmeans_clustering.py: Python script containing the entire process of K-Means Clustering.
+- k_means_clustering_Devansh Gupta.ipynb: Python script containing the entire process of K-Means Clustering.
 - wine-clustering.csv: Dataset used for the analysis.
 
 ## **Results**
